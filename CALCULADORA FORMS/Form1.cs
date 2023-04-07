@@ -245,8 +245,6 @@ namespace CALCULADORA_FORMS
                 valPrimerNum = false;
            
         }
-
-        
     }
 
 
